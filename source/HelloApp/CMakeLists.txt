@@ -1,3 +1,3 @@
-add_executable(HelloApp
-  hello.cpp
-)
+add_subdirectory(src)
+
+

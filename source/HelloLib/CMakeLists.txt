@@ -1,1 +1,3 @@
-message(STATUS "HelloLib entered")
+include_directories(inc)
+
+add_subdirectory(src)
